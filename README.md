@@ -1,7 +1,8 @@
 # Hello World <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 
 <h4>
-  
+
+```diff
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@          /\     /\                                  @@
 @@         {  `---'  }                                 @@
@@ -18,5 +19,5 @@
 @@   Meow! I'm debugging your code...                @@
 @@   Please wait...                                   @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
+```
 </h4>
