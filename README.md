@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=450&lines=print(%22Hello+World%22);Looking+for+my+next+challenge;Scroll+down+to+see+more!&size=24" alt="Typing SVG" style="vertical-align: middle;" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="50" height="50" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=450&lines=print(%22Hello+World%22);Looking+for+my+next+challenge;Scroll+down+to+see+more!&size=24&vCenter=true" alt="Typing SVG" style="vertical-align: middle;" />
 </p>
 
 <div align="center">
@@ -29,8 +29,8 @@
 <br>
 
 <p align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=FFFFFF&width=200&lines=Technologies&size=27&repeat=false" alt="Technologies Title" style="vertical-align: middle;" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="50" height="50" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=FFFFFF&width=200&lines=Technologies&size=27&repeat=false&vCenter=true" alt="Technologies Title" style="vertical-align: middle;" />
 </p>
 
 <br>
